@@ -1,0 +1,1 @@
+Question answers to Spotify Fellowship Application done in JS.
